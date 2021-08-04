@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Model/
+.idea
+.vscode
+combined_csv.csv
+q_a.json
